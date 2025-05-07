@@ -1,10 +1,11 @@
 # 事件通知系统
+该项目仅用作Rust语言学习与记录，项目代码可能存在错误或不规范，欢迎批评指正。<br/>
 文章地址：<br/>
 [第一部分]https://mp.weixin.qq.com/s/zlui9eiqrncAkzP-9AGZ5w<br/>
 [第二部分]https://mp.weixin.qq.com/s/nIgmYYDvCX65t31DtzVOTw<br/>
 [第三部分]https://mp.weixin.qq.com/s/jrqGSxh-dKLcSo92Zd9uog<br/>
 ## 项目概述
-`event_notification_system` 是一个用 Rust 语言编写的事件通知系统，借助多个高性能库实现了异步处理、序列化、消息队列集成、HTTP 请求等功能。该系统可能用于处理和分发各类事件通知，具备高并发、可扩展的特性。
+`event_notification_system` 是一个用 Rust 语言编写的事件通知系统，借助多个高性能库实现了异步处理、序列化、消息队列集成、HTTP 请求等功能。该系统能用于处理和分发各类事件通知，具备高并发、可扩展的特性。
 
 ## 项目依赖
 以下是项目 `Cargo.toml` 里的主要依赖：
